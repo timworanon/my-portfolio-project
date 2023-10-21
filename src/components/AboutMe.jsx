@@ -16,7 +16,7 @@ const AboutMe = () => {
               <p className="px-4 pt-2 pb-4 text-l sm:text-xl md:text-2xl lg:text-3xl font-bold">get better at HTML, CSS, JavaScript, and the MERN stack.</p>
             </div>
             <img className="w-full max-h-[500px] object-cover" src="https://img.freepik.com/free-psd/3d-illustration-people-working-marketing_23-2150417380.jpg?w=900&t=st=1695307919~exp=1695308519~hmac=de54eb1249e669608d3a7aa6807b17a35ec462c0d627e9646eab2d4672e0b0e5" alt="/" />
-              <a href="https://drive.google.com/file/d/1KVANdaqeIml84aum-ErXUoDDxnts-LFu/view?usp=sharing" target="_blank" rel="CV/Resume" className="p-2 absolute font-bold  text-gray-200 bg-[#FF6464] hover:text-[#000]">Download resume</a>        
+              <a href="https://drive.google.com/file/d/1l-4eI-qDgyTdWvVJD9MtuT1R62FCyViM/view?usp=sharing" target="_blank" rel="CV/Resume" className="p-2 absolute font-bold  text-gray-200 bg-[#FF6464] hover:text-[#000]">Download resume</a>        
           </div>
         </div>
 
