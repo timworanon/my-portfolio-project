@@ -30,7 +30,7 @@ const Projects = () => {
                   <div className=' rounded-xl relative hover:scale-105 duration-300'>
                     {/* Overlay */}
                     <div className='absolute w-full h-full bg-black/30 rounded-xl text-white hover:text-[#ffe564]'>
-                        <p className='font-bold text-2xl px-4 pt-4'>CSS</p>
+                        <p className='font-bold text-2xl px-4 pt-4'>Find Your Hat</p>
                         <p className='px-4 font-bold'>The mini game runs in a console browser</p>
                         <p className='px-4 font-bold'>Tools: JavaScript</p>
                     </div>
